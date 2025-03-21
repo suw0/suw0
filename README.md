@@ -1,3 +1,4 @@
+<button onclick="showMessage()">Click Me!</button>
 <p id="birthdayMessage" class="message"> To my dearest Chuba, many many happy returns of the day! 🎂🎈  
 Wishing you all the happiness in the world, cause you're worthy of that and so much more. Your kindness, love and ability to feel deeply is what makes you YOU, and are some of the few qualities that i love most about you. I hope your bad experiences in life never make you lose what i believe is your greatest strength. 🌷
 You are an amazing person, and I’m so lucky to have you as my friend. Friends may come and go but Chuba is for life 😝❤️. 
